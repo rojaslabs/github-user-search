@@ -1,3 +1,9 @@
+# Description and Live preview
+
+Web application developed in React, which consumes data from the GitHub public API and pages it.
+
+[Live preview](http://ec2-54-86-113-175.compute-1.amazonaws.com)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
