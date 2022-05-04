@@ -4,7 +4,7 @@ Web application developed in React, which consumes data from the [GitHub public 
 
 Due to API restrictions, only the first 1,000 requests are available, however, paging is done based on the total data returned by the API (total_count). The number of requests is also limited to 5,000 per hour, returning error 403 when it is exceeded.
 
-[Live preview](http://ec2-54-86-113-175.compute-1.amazonaws.com)
+[Live preview](ec2-54-211-66-185.compute-1.amazonaws.com)
 
 # Getting Started with Create React App
 
