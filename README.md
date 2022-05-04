@@ -1,6 +1,6 @@
 # Description and Live preview
 
-Web application developed in React, which consumes data from the GitHub public API and pages it.
+Web application developed in React, which consumes data from the [GitHub public API](https://docs.github.com/en/rest/search) and pages it.
 
 Due to API restrictions, only the first 1,000 requests are available, however, paging is done based on the total data returned by the API (total_count). The number of requests is also limited to 15,000 per hour, returning error 422 when it is exceeded.
 
