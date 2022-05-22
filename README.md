@@ -4,4 +4,8 @@ Web application developed in React, which consumes data from the [GitHub public 
 
 Due to API restrictions, only the first 1,000 requests are available, however, paging is done based on the total data returned by the API (total_count). The number of requests is also limited to 5,000 per hour, returning error 403 when it is exceeded.
 
-[Live preview](https://rojaslabs.github.io/github-user-search/)
+## Live preview and screenshots
+
+:point_right: [Live preview](https://rojaslabs.github.io/github-user-search/)
+
+![github-user-search-preview](https://github.com/rojaslabs/github-user-search/blob/main/github-user-search-preview.png?raw=true)
